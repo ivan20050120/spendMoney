@@ -261,7 +261,7 @@ const cards = () => {
   }, {
     img: 'charity.png',
     title: 'Сharity',
-    price: '296099999997'
+    price: '259999999997',
   }];
 
   function createItem(data) {
